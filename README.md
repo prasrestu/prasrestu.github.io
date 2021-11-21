@@ -1,3 +1,3 @@
 # prasrestu.github.io
-Membuat Contact Us
-Membuat About Us
+Membuat Mockup Contact US & index html
+Membuat Mockup About US & index html
