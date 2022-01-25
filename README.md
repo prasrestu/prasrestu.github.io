@@ -1,1 +1,1 @@
-
+Alat pendeteksi gas
